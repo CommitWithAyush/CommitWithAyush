@@ -58,7 +58,7 @@ I enjoy building skills across domains, contributing to projects, and learning s
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
 **Contribution Graph Snake:**  
-![Snake animation](https://github.com/CommitWithAyush/CommitWithAyush/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/CommitWithAyush/CommitWithAyush/blob/output/snake.svg)
 
 **Profile Views:**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=CommitWithAyush&label=Profile%20Views&color=blue&style=flat)  
