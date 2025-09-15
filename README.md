@@ -19,7 +19,7 @@ I enjoy building skills across domains, contributing to projects, and learning s
 **Data Science**  
 - NumPy, Pandas, Matplotlib, Seaborn  
 - Scikit-learn (basics of ML)  
-- Jupyter Notebook, Google Colab  
+- Google Colab  
 - SQL for data handling  
 
 **Cybersecurity**  
@@ -34,7 +34,8 @@ I enjoy building skills across domains, contributing to projects, and learning s
 
 **Other Tools**  
 - Git & GitHub  
-- Linux (Bash, Shell scripting basics)  
+- Windows/Linux
+- Visual Studio
 
 ---
 
@@ -57,13 +58,14 @@ I enjoy building skills across domains, contributing to projects, and learning s
 **Random Dev Quote:**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
-**Contribution Graph Snake:**  
-![Snake animation](https://github.com/CommitWithAyush/CommitWithAyush/blob/output/snake.svg)
-
 **Profile Views:**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=CommitWithAyush&label=Profile%20Views&color=blue&style=flat)  
 
 ---
 
 ## Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/cyberayush007)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cyberayush007)
+
+### 💻 My LeetCode Stats
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Crypt0xAyush&theme=dark)](https://leetcode.com/u/Crypt0xAyush/)
