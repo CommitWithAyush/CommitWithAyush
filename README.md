@@ -53,18 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Ayush’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=CommitWithAyush&show_icons=true&theme=tokyonight)  
-<!---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CommitWithAyush&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CommitWithAyush&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
---->
-
-</div>
-
 ---
 
 ## 🔥 Current Focus  
@@ -79,10 +67,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Crypt0xAyush?theme=dark&font=baloo&ext=contest)
 
 ---
-
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=CommitWithAyush&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
