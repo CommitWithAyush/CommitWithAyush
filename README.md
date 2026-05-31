@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Final Year **B.Tech CSE Student**  
+- 🎓 **B.Tech CSE Graduate**  
 - 💡 Strong foundations in **C++/Python (DSA)** — my core strength  
 - 🔐 Practical exposure in **Cybersecurity (Ethical Hacking & VAPT)**  
 - 📊 Currently exploring **Data Science & Machine Learning**  
